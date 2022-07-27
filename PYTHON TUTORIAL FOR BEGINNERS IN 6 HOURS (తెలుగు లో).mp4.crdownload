@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- saved from url=(0076)https://ak.hetaruwg.com/4/5117836/?var=2579647&ab2r=0&prfrev=false&rhd=false -->
+<html lang="en" xmlns="http://www.w3.org/1999/html"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Redirect</title>
+	<noscript>
+		<meta id="meta-refresh" http-equiv="refresh" content="1; url=https://nomagic-master.xyz/click.php?key=xyjwtqm8ce5vxcmtfgsf&amp;visitor_id=569946806965039375&amp;cost=0.002488&amp;zoneid=2579647&amp;campaignid=5789188&amp;user_activity=high&amp;countryname=IN&amp;country=IN&amp;c=HAwN8jv5dBv73_t2FQ64CrsAoRA="/>
+	</noscript>
+	<meta name="referrer" content="never">
+	<link rel="preconnect dns-prefetch" href="https://nomagic-master.xyz/click.php?key=xyjwtqm8ce5vxcmtfgsf&amp;visitor_id=569946806965039375&amp;cost=0.002488&amp;zoneid=2579647&amp;campaignid=5789188&amp;user_activity=high&amp;countryname=IN&amp;country=IN&amp;c=HAwN8jv5dBv73_t2FQ64CrsAoRA=">
+
+	<link rel="preconnect dns-prefetch" href="https://my.rtmark.net/">
+
+
+</head>
+<body>
+<script type="text/javascript">
+
+    if (window.history) {
+        for (var i = 0; i < 3; i++) {
+            
+            var url = "/4/5117836/?var=2579647&ab2r=0&prfrev=false&rhd=false";
+            
+            window.history.pushState(null, document.title, url);
+        }
+    }
+
+
+    function redirect() {
+        
+        window.location.href = "https:\/\/nomagic-master.xyz\/click.php?key=xyjwtqm8ce5vxcmtfgsf\u0026visitor_id=569946806965039375\u0026cost=0.002488\u0026zoneid=2579647\u0026campaignid=5789188\u0026user_activity=high\u0026countryname=IN\u0026country=IN\u0026c=HAwN8jv5dBv73_t2FQ64CrsAoRA=";
+    }
+
+
+    if (navigator.sendBeacon) {
+        navigator.sendBeacon("https:\/\/my.rtmark.net/img.gif?f=merge&userId=d9a21ea0b11b4b488f1b7861da72d5c2");
+    }
+    redirect();
+
+</script></body></html>
